@@ -78,6 +78,7 @@ Alternatively, to manually configure VS Code, choose the appropriate JSON block 
 </table>
 
 ### Install in other MCP hosts
+- **[GitHub Copilot CLI](/docs/installation-guides/install-copilot-cli.md)** - Installation guide for GitHub Copilot command-line interface
 - **[GitHub Copilot in other IDEs](/docs/installation-guides/install-other-copilot-ides.md)** - Installation for JetBrains, Visual Studio, Eclipse, and Xcode with GitHub Copilot
 - **[Claude Applications](/docs/installation-guides/install-claude.md)** - Installation guide for Claude Web, Claude Desktop and Claude Code CLI
 - **[Cursor](/docs/installation-guides/install-cursor.md)** - Installation guide for Cursor IDE
@@ -234,6 +235,7 @@ Optionally, you can add a similar example (i.e. without the mcp key) to a file c
 
 For other MCP host applications, please refer to our installation guides:
 
+- **[GitHub Copilot CLI](/docs/installation-guides/install-copilot-cli.md)** - Installation guide for GitHub Copilot command-line interface
 - **[GitHub Copilot in other IDEs](/docs/installation-guides/install-other-copilot-ides.md)** - Installation for JetBrains, Visual Studio, Eclipse, and Xcode with GitHub Copilot
 - **[Claude Code & Claude Desktop](docs/installation-guides/install-claude.md)** - Installation guide for Claude Code and Claude Desktop
 - **[Cursor](docs/installation-guides/install-cursor.md)** - Installation guide for Cursor IDE
